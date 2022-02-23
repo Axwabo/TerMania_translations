@@ -1,15 +1,15 @@
 {
-    "loading": "Loading game",
-    "readCache": "Reading cache",
-    "checkUpdate": "Checking for updates",
-    "downloadUpdate": "Downloading files",
-    "loadingTextures": "Loading textures",
-    "loadingScripts": "Loading scripts",
-    "noTextures": "Can't find texture data!",
-    "noScriptOrder": "Can't find script order!",
-    "noHTML": "Can't find UI content!",
-    "loadError": "An error occurred",
-    "continue": "Continue",
-    "reload": "Reload",
-    "couldNotCheck": "Couldn't check for updates."
+    "loading": "Játék betöltése",
+    "readCache": "Gyorsítótár olvasása",
+    "checkUpdate": "Frissítések keresése",
+    "downloadUpdate": "Fájlok letöltése",
+    "loadingTextures": "Texturák betöltése",
+    "loadingScripts": "Szkriptek betöltése",
+    "noTextures": "Textúra adatok nem találhatók!",
+    "noScriptOrder": "Szkript sorrend nem található!",
+    "noHTML": "UI tartalom nem található!",
+    "loadError": "Hiba történt",
+    "continue": "Folytatás",
+    "reload": "Újratölt",
+    "couldNotCheck": "Nem sikerült frissítéseket keresni."
 }
