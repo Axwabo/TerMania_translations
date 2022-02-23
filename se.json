@@ -22,7 +22,7 @@
     "global.yes": "Yes",
     "global.no": "No",
     "global.back": "Back",
-    "global.refresh": "Refresh",
+    "global.reload": "Reload",
     "global.continue": "Continue",
     "global.cancel": "Cancel",
     "error.playingMusic": "An error occurred while<br>trying to play music.",

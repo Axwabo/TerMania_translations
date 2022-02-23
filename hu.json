@@ -22,7 +22,7 @@
     "global.yes": "Igen",
     "global.no": "Nem",
     "global.back": "Vissza",
-    "global.refresh": "Újratöltés",
+    "global.reload": "Újratöltés",
     "global.continue": "Folytatás",
     "global.cancel": "Mégse",
     "error.playingMusic": "Hiba történt<br>a zene lejátszásakor.",
