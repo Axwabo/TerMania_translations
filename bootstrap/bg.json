@@ -1,0 +1,15 @@
+{
+    "loading": "Loading game",
+    "readCache": "Reading cache",
+    "checkUpdate": "Checking for updates",
+    "downloadUpdate": "Downloading files",
+    "loadingTextures": "Loading textures",
+    "loadingScripts": "Loading scripts",
+    "noTextures": "Can't find texture data!",
+    "noScriptOrder": "Can't find script order!",
+    "noHTML": "Can't find UI content!",
+    "loadError": "An error occurred",
+    "continue": "Continue",
+    "reload": "Reload",
+    "couldNotCheck": "Couldn't check for updates."
+}
