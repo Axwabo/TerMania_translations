@@ -1,5 +1,5 @@
 {
-    "loading": "Loading game",
+    "loading": "Jeu de chargement",
     "readCache": "Reading cache",
     "checkUpdate": "Checking for updates",
     "downloadUpdate": "Downloading files",
@@ -9,7 +9,14 @@
     "noScriptOrder": "Can't find script order!",
     "noHTML": "Can't find UI content!",
     "loadError": "An error occurred",
-    "continue": "Continue",
-    "reload": "Reload",
-    "couldNotCheck": "Couldn't check for updates."
+    "continue": "Continuer",
+    "reload": "Actualiser",
+    "couldNotCheck": "Couldn't check for updates.",
+    "available": "Update available.",
+    "skip": "Skip",
+    "update": "Update",
+    "missingFiles": "Some files are missing.<br>An update is required<br>to load TerMania.",
+    "loadingAudio": "Loading audio",
+    "noAudioData": "Can't find audio data!",
+    "langDetected": "Français langage détecté."
 }

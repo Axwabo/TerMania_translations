@@ -11,5 +11,12 @@
     "loadError": "Hiba történt",
     "continue": "Folytatás",
     "reload": "Újratölt",
-    "couldNotCheck": "Nem sikerült frissítéseket keresni."
+    "couldNotCheck": "Nem sikerült frissítéseket keresni.",
+    "available": "Frissítés elérhető.",
+    "skip": "Átugrás",
+    "update": "Frissítés",
+    "missingFiles": "Néhány fájl hiányzik.<br>Frissítés szükséges,<br>hogy TerMania betöltsön.",
+    "loadingAudio": "Audió betöltése",
+    "noAudioData": "Audió adatok nem találhatók!",
+    "langDetected": "Magyar nyelv észlelve."
 }

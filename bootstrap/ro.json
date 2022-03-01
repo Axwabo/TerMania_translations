@@ -11,5 +11,12 @@
     "loadError": "An error occurred",
     "continue": "Continue",
     "reload": "Reload",
-    "couldNotCheck": "Couldn't check for updates."
+    "couldNotCheck": "Couldn't check for updates.",
+    "available": "Update available.",
+    "skip": "Skip",
+    "update": "Update",
+    "missingFiles": "Some files are missing.<br>An update is required<br>to load TerMania.",
+    "loadingAudio": "Loading audio",
+    "noAudioData": "Can't find audio data!",
+    "langDetected": "S-a detectat limba română."
 }

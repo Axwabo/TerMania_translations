@@ -5,11 +5,18 @@
     "downloadUpdate": "Downloading files",
     "loadingTextures": "Loading textures",
     "loadingScripts": "Loading scripts",
+    "loadingAudio": "Loading audio",
     "noTextures": "Can't find texture data!",
     "noScriptOrder": "Can't find script order!",
+    "noAudioData": "Can't find audio data!",
     "noHTML": "Can't find UI content!",
     "loadError": "An error occurred",
     "continue": "Continue",
     "reload": "Reload",
-    "couldNotCheck": "Couldn't check for updates."
+    "couldNotCheck": "Couldn't check for updates.",
+    "available": "Update available.",
+    "skip": "Skip",
+    "update": "Update",
+    "missingFiles": "Some files are missing.<br>An update is required<br>to load TerMania.",
+    "langDetected": "English language detected. (replace English with your own language!)"
 }
