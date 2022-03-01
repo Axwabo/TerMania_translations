@@ -18,5 +18,6 @@
     "skip": "Skip",
     "update": "Update",
     "missingFiles": "Some files are missing.<br>An update is required<br>to load TerMania.",
-    "langDetected": "English language detected. (replace English with your own language!)"
+    "langDetected": "English language detected. (replace English with your own language!)",
+    "change": "Change"
 }

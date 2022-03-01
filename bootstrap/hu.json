@@ -18,5 +18,6 @@
     "missingFiles": "Néhány fájl hiányzik.<br>Frissítés szükséges,<br>hogy TerMania betöltsön.",
     "loadingAudio": "Audió betöltése",
     "noAudioData": "Audió adatok nem találhatók!",
-    "langDetected": "Magyar nyelv észlelve."
+    "langDetected": "Magyar nyelv észlelve.",
+    "change": "Váltás"
 }

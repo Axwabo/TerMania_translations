@@ -18,5 +18,6 @@
     "missingFiles": "Some files are missing.<br>An update is required<br>to load TerMania.",
     "loadingAudio": "Loading audio",
     "noAudioData": "Can't find audio data!",
-    "langDetected": "Idioma español detectado."
+    "langDetected": "Idioma español detectado.",
+    "change": "Cambiar"
 }
