@@ -1,5 +1,6 @@
 {
-    "language-name": "Français",
+    "native-name": "Français",
+    "english-language-name": "French",
     "menu.play": "Jouer",
     "menu.optionsBtn": "Options",
     "menu.quitBtn": "Quitter",

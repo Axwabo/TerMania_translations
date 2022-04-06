@@ -1,5 +1,6 @@
 {
-    "language-name": "English (replace this with your language's name!)",
+    "native-name": "English (replace this with your language's name!)",
+    "english-language-name": "English",
     "menu.play": "Play",
     "menu.optionsBtn": "Options",
     "menu.quitBtn": "Quit",

@@ -1,5 +1,6 @@
 {
-    "language-name": "Magyar",
+    "native-name": "Magyar",
+    "english-language-name": "Hungarian",
     "menu.play": "Játék",
     "menu.optionsBtn": "Opciók",
     "menu.quitBtn": "Kilépés",

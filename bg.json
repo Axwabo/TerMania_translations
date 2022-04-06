@@ -1,5 +1,6 @@
 {
-    "language-name": "български",
+    "native-name": "български",
+    "english-language-name": "Bulgarian",
     "menu.play": "играй",
     "menu.optionsBtn": "опции",
     "menu.quitBtn": "излез",

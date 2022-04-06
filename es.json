@@ -1,5 +1,6 @@
 {
-    "language-name": "Español",
+    "native-name": "Español",
+    "english-language-name": "Spanish",
     "menu.play": "Jugar",
     "menu.optionsBtn": "Opciones",
     "menu.quitBtn": "Salir",
